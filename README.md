@@ -1,18 +1,16 @@
-<p align="center"><img src=".github/logo.png" width="200" alt="FreelanceHours Logo"></a></p>
+# Freelance Hours
 
-<p align="center">
+<p align="left">
   <img alt="PHP version" src="https://img.shields.io/static/v1?label=php&message=8.2&color=18181B&labelColor=5354FD">
     <img alt="Laravel version" src="https://img.shields.io/static/v1?label=laravel&message=11.9&color=18181B&labelColor=5354FD">
 </p>
 
-## Projeto FreelanceHours
+## Sobre
+FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde freelancers podem enviar propostas de horas que podem contribuir em determinado projeto.  
 
-FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde freelancers podem enviar propostas de horas que podem contribuir em determinado projeto.
-
-<br>
-
+## Layout
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="images/preview.png" width="80%">
 </p>
 
 ## Tecnologias utilizadas
@@ -23,6 +21,7 @@ FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde 
 - [**Tailwind**](https://tailwindcss.com/): Framework CSS que facilita o desenvolvimento de interfaces modernas e responsivas.
 
 
-## Licença
+## Licença e Agradecimentos
+- Este projeto está licenciado sob a licença MIT.
+- Esta aplicação foi desenvolvida durante o evento PHP na Prática da [**Rocktseat**](https://app.rocketseat.com.br/?type=ALL).
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
