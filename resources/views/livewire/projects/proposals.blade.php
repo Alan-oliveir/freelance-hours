@@ -1,3 +1,1 @@
-<div>
-    {{-- Be like water. --}}
-</div>
+<x-proposals :proposals="$project->proposals" />
